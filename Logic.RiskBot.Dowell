@@ -1,12 +1,12 @@
-Start bot
-Verify user with ID or email or phone
-Ask ID or email or phone
-Check in spread sheet for registration of team members 
-if yes ask for risk <explanation>
-categorise the risk by the user (message)
-Meaning of senetence
-split sentence
-develop hypothesis for the sentence user typed in
-set sub variables
-measure the variables in a distance scale by user
-Submit risk
+//Start bot
+//Verify user with ID or email or phone
+//Ask ID or email or phone
+//Check in spread sheet for registration of team members 
+//if yes ask for risk <explanation>
+//categorise the risk by the user (message)
+//Meaning of senetence
+//split sentence
+//develop hypothesis for the sentence user typed in
+//set sub variables
+//measure the variables in a distance scale by user
+//Submit risk
